@@ -1,3 +1,8 @@
+//后端api路由
+//userApi.ts
+var express = require('express');
+var router = express.Router();
+
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
